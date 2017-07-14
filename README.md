@@ -23,6 +23,8 @@ file system.
 
 ## How To Contribute
 
+Please fork this repository and make a pull request
+
 ### COpyright
 
 Git Training
